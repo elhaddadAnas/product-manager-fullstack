@@ -1,0 +1,21 @@
+# Java build
+/backend/target/
+
+# Node modules
+**/node_modules/
+
+# Vite build output
+frontend/dist/
+
+# IDE directories
+.idea/
+.vscode/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+
